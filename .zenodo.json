@@ -1,0 +1,13 @@
+{
+  "title": "UA-OSM: Uncertainty-Aware Object-Shaped Merging to Reduce Object Loss in 360° Surround-View Stitching (code, notebook and data)",
+  "upload_type": "software",
+  "description": "<p>Simulation code, Google Colab validation notebook, raw result data and figures for UA-OSM, a merging method for four-camera automotive surround-view systems. It assigns each object's complete ground-projected footprint to one camera that detects it, dilates the region by tracker covariance, resolves multi-object conflicts by joint camera assignment and escalates to a driver warning when an object cannot be shown whole.</p><p>Includes a closed-form feasibility analysis of straight seams, pixel-level evaluation against fixed, dynamic-straight, curved mask-avoiding and one-camera-per-object baselines, ablations, statistics, and a scenario catalog of four times of day, three weather states and one to five objects. All merging results are simulated; see the README for limitations.</p>",
+  "creators": [
+    {"name": "Joshi, Rohit", "affiliation": "EIMT, Switzerland", "orcid": "0009-0007-4201-7862"}
+  ],
+  "keywords": ["surround view", "image stitching", "fisheye camera", "vulnerable road users", "parallax", "ADAS", "SOTIF", "automotive HMI"],
+  "license": "MIT",
+  "language": "eng",
+  "version": "1.0.0",
+  "notes": "Result data and figures are additionally released under CC BY 4.0."
+}

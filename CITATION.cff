@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "UA-OSM: Uncertainty-Aware Object-Shaped Merging to Reduce Object Loss in 360° Surround-View Stitching"
+type: software
+authors:
+  - family-names: Joshi
+    given-names: Rohit
+    affiliation: "EIMT, Switzerland"
+    orcid: "https://orcid.org/0009-0007-4201-7862"
+version: "1.0.0"
+date-released: "2026-09-27"
+license: MIT
+repository-code: "https://github.com/GITHUB_USER/UA-OSM"
+abstract: >-
+  Simulation code, validation notebook and result data for UA-OSM, a merging method for
+  four-camera surround-view systems that assigns each object's complete ground-projected
+  footprint to one camera that detects it, dilates it by tracker covariance, resolves
+  conflicts by joint camera assignment and escalates to a driver warning when an object
+  cannot be shown whole.
+keywords:
+  - surround view
+  - image stitching
+  - fisheye camera
+  - vulnerable road users
+  - parallax
+  - ADAS
+  - SOTIF
+# After the first Zenodo release, add:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
