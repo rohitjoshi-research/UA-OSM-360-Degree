@@ -3,7 +3,7 @@
 **Reducing object loss in 360° surround-view stitching — simulation study, code and data**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/UA-OSM/blob/main/notebooks/UA-OSM_validation.ipynb)
-[![DOI]([https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI](https://zenodo.org/records/22992593))
+[![DOI](https://doi.org/ZENODO_DOI](https://zenodo.org/records/22992593)
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
