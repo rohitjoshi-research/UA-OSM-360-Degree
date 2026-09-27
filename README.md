@@ -64,7 +64,7 @@ If you use this work, please cite the paper and this software (see `CITATION.cff
   author = {Joshi, Rohit},
   title  = {{UA-OSM}: Uncertainty-Aware Object-Shaped Merging to Reduce Object Loss in 360° Surround-View Stitching},
   year   = {2026},
-  doi    = {ZENODO_DOI},
+  doi    = {[ZENODO_DOI](https://zenodo.org/records/22992593)},
   url    = {https://github.com/GITHUB_USER/UA-OSM}
 }
 ```
